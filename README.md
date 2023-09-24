@@ -7,6 +7,6 @@
 
 <p>- Thanks,
 
-Marcos Silveira</p>
+<h3>Marcos Silveira</h3></p>
 
 <h2>So this is my ✨ special ✨ new repository, where I intend to learn things from 0 to hero if life let's me - and I hope so.</h2>
