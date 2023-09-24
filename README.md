@@ -3,7 +3,7 @@
 }> 👋 Hi, I’m <a href="https://www.github.com/marcossgonzalez" target="_blank" >@marcossgonzalez</a>, I used to have another github <a href="https://www.github.com/marknkw" target="_blank">@marknkw</a>, but that was made to use as repository to personal back-end projects. Now I want to learn things from 0 and keep things clean:</h1>
 <h3> I'm currently interested 👀 on learning the front-end side of programming and to get back on track with back-end development</h3>
 <p>- Now I intend to learn 🌱 front-end and collaborate with this community.</p>
-<p>-  You can reach me at :e-mail: <a href="mailto:marcos.s.gonzalezjr@outlook.com">marcos.s.gonzalezjr@outlook.com</a> </p>
+<p>-  You can reach me at :e-mail:: <a href="mailto:marcos.s.gonzalezjr@outlook.com">marcos.s.gonzalezjr@outlook.com</a> </p>
 
 <p>- Thanks,
 
